@@ -1,1 +1,4 @@
-# toolathlon-rail-7602-tne-audit-2026q4
+# Quarterly rail travel expense audit — 2026 Q4
+
+Submission target for the Q4 rail travel expense audit.
+Publish the audit report as `audit_report.json` at the repository root.
