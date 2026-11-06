@@ -24,15 +24,15 @@
     },
     {
       "claim_id": "CLM-0004",
-      "decision": "ADJUSTED",
-      "approved_amount": 667.0,
-      "reason": "CLASS_LIMIT"
+      "decision": "APPROVED",
+      "approved_amount": 1069.0,
+      "reason": "WITHIN_POLICY"
     },
     {
       "claim_id": "CLM-0005",
-      "decision": "ADJUSTED",
-      "approved_amount": 498.0,
-      "reason": "OVERCLAIM"
+      "decision": "APPROVED",
+      "approved_amount": 697.2,
+      "reason": "WITHIN_POLICY"
     },
     {
       "claim_id": "CLM-0006",
@@ -48,9 +48,9 @@
     },
     {
       "claim_id": "CLM-0008",
-      "decision": "ADJUSTED",
-      "approved_amount": 99.5,
-      "reason": "CLASS_LIMIT"
+      "decision": "APPROVED",
+      "approved_amount": 199.5,
+      "reason": "WITHIN_POLICY"
     },
     {
       "claim_id": "CLM-0009",
@@ -60,9 +60,9 @@
     },
     {
       "claim_id": "CLM-0010",
-      "decision": "ADJUSTED",
-      "approved_amount": 74.5,
-      "reason": "OVERCLAIM"
+      "decision": "APPROVED",
+      "approved_amount": 88.0,
+      "reason": "WITHIN_POLICY"
     },
     {
       "claim_id": "CLM-0011",
@@ -78,9 +78,9 @@
     },
     {
       "claim_id": "CLM-0013",
-      "decision": "ADJUSTED",
-      "approved_amount": 67.0,
-      "reason": "CLASS_LIMIT"
+      "decision": "APPROVED",
+      "approved_amount": 201.0,
+      "reason": "WITHIN_POLICY"
     },
     {
       "claim_id": "CLM-0014",
@@ -115,11 +115,11 @@
   ],
   "summary": {
     "total_claims": 18,
-    "approved_count": 10,
-    "adjusted_count": 5,
+    "approved_count": 15,
+    "adjusted_count": 0,
     "rejected_count": 3,
     "total_claimed": 8046.21,
-    "total_approved": 6127.01,
-    "total_disallowed": 1919.2
+    "total_approved": 6975.71,
+    "total_disallowed": 1070.5
   }
 }
